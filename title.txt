@@ -1,0 +1,5 @@
+Corsin Alig, Bernd Huf, Stephan Gieriet
+
+Provides configurable multi-level trace logging and diagnostic output for variables, arrays, sequences, and function execution flow to support method development, debugging, and validation on Hamilton liquid handling platforms.
+
+trace, logging, debug, diagnostics, method-development, validation, sequences, arrays, utilities
